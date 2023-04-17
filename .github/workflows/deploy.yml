@@ -2,7 +2,7 @@ name: Deployment (Container)
 on:
   push:
     branches:
-      - main
+      - master
       - dev
 env:
   CACHE_KEY: node-deps
@@ -10,7 +10,7 @@ env:
 jobs:
   test:
     environment: testing
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     env:
       MONGODB_CONNECTION_PROTOCOL: mongodb+srv
       MONGODB_CLUSTER_ADDRESS: cluster0.ntrwp.mongodb.net
@@ -36,7 +36,7 @@ jobs:
           echo "MONGODB_USERNAME: $MONGODB_USERNAME"
   deploy:
     needs: test
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
       - name: Output information
         env:
