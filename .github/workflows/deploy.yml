@@ -10,7 +10,7 @@ env:
 jobs:
   test:
     environment: testing
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     container: 
       image:  node:16
     env:
@@ -38,7 +38,7 @@ jobs:
           echo "MONGODB_USERNAME: $MONGODB_USERNAME"
   deploy:
     needs: test
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Output information
         env:
