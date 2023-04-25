@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T10:44:56.865Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kAtBK0rUWIZMgXunCFbk" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T10:47:56.135Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="dI5umcSJ6_YoHxdet64m" version="21.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -237,6 +237,9 @@
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-70" value="User enters in the format given." style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1405" y="1560" width="230" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-72" target="BrnbvuKPnCU4uQ8LR4Vm-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-72" value="User uploads format into the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1460" y="1680" width="120" height="100" as="geometry" />
         </mxCell>
@@ -263,11 +266,26 @@
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-84" value="Enter generic custom &lt;br&gt;rule information" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2230" y="600" width="150" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-85" target="BrnbvuKPnCU4uQ8LR4Vm-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-85" value="Create conditions&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2450" y="600" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-87" value="&lt;br&gt;&lt;br&gt;Form Fields, For travel expenses values have been provided. For non-travel yet to be provided&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Form Fields, First Name, Last Name, Job Tille, Company Name, Phone Number, Company, Employee Count, Country&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:107}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2470" y="420" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-88" target="BrnbvuKPnCU4uQ8LR4Vm-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-88" value="Create validations&lt;br&gt;&amp;nbsp;for each rule" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2670" y="600" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-89" value="&lt;br&gt;&lt;br&gt;Form Fields, Exception message, Severity of exception&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Form Fields, First Name, Last Name, Job Tille, Company Name, Phone Number, Company, Employee Count, Country&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:107}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2690" y="420" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-92" value="User starts using the system" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2920" y="620" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
