@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T10:34:32.077Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="80va2KiGC5gTUuz7fvdS" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T10:44:56.865Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kAtBK0rUWIZMgXunCFbk" version="21.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -246,8 +246,28 @@
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-74" value="Form to enter a total of 5 employees. The fields of the form will be similar to the excel format." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1840" y="600" width="120" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2240" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-79" value="Show video on how to create custom rules" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2040" y="600" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-82" value="&lt;br&gt;&lt;br&gt;Form Fields, Rule Name, Event Trigger, Editable By, Applies To Role, Active (Y/N)&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Form Fields, First Name, Last Name, Job Tille, Company Name, Phone Number, Company, Employee Count, Country&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:107}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Form Fields, First Name, Last Name, Job Tille, Company Name, Phone Number, Company, Employee Count, Country&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:107}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2250" y="420" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-84" target="BrnbvuKPnCU4uQ8LR4Vm-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-84" value="Enter generic custom &lt;br&gt;rule information" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2230" y="600" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-85" value="Create conditions&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2450" y="600" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-87" value="&lt;br&gt;&lt;br&gt;Form Fields, For travel expenses values have been provided. For non-travel yet to be provided&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Form Fields, First Name, Last Name, Job Tille, Company Name, Phone Number, Company, Employee Count, Country&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:107}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2470" y="420" width="130" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
