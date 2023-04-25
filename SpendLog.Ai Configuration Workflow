@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T10:15:36.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="02j0lekJJO90nv67AGGd" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T10:30:50.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="E_O_jIfzyq4xEE22iHvl" version="21.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -40,6 +40,11 @@
         </mxCell>
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-7" target="BrnbvuKPnCU4uQ8LR4Vm-34">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-64" value="Try for free" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BrnbvuKPnCU4uQ8LR4Vm-35">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-7" value="What Does user select?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="140" width="120" height="100" as="geometry" />
@@ -93,6 +98,9 @@
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-21" value="Does user enter correct email and address" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="600" width="120" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-22" target="BrnbvuKPnCU4uQ8LR4Vm-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-22" value="User redirected to dashboard." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="600" width="120" height="100" as="geometry" />
         </mxCell>
@@ -114,6 +122,9 @@
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-34" value="User clicks on Try For Free Button" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="140" width="120" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-36" target="BrnbvuKPnCU4uQ8LR4Vm-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-36" value="User enters relevant form&lt;br&gt;&amp;nbsp;details and clicks Submit" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="980" y="150" width="200" height="80" as="geometry" />
         </mxCell>
@@ -122,6 +133,96 @@
         </mxCell>
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-42" value="&lt;br&gt;&lt;br&gt;Form Fields, First Name, Last Name, Job Title, Company Name, Phone Number, Company Name, Employee Count, Country&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Form Fields, First Name, Last Name, Job Tille, Company Name, Phone Number, Company, Employee Count, Country&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:107}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Form Fields, First Name, Last Name, Job Tille, Company Name, Phone Number, Company, Employee Count, Country&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:107}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="-20" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-43" target="BrnbvuKPnCU4uQ8LR4Vm-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-43" value="User Setups password" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="140" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-44" target="BrnbvuKPnCU4uQ8LR4Vm-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-44" value="User enters email Id and Password" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1480" y="140" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-45" target="BrnbvuKPnCU4uQ8LR4Vm-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="540" />
+              <mxPoint x="860" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-45" value="System creates free account" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1680" y="140" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-50" target="BrnbvuKPnCU4uQ8LR4Vm-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-50" value="Show video on how to setup employees" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="600" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-52" target="BrnbvuKPnCU4uQ8LR4Vm-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-52" value="Prompt user to setup employees" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1240" y="600" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-54" target="BrnbvuKPnCU4uQ8LR4Vm-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-65" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BrnbvuKPnCU4uQ8LR4Vm-57">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-54" value="Does user want to setup entire company HR master?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="580" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-56" target="BrnbvuKPnCU4uQ8LR4Vm-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-56" value="Flash message to user that this option is not available free trial" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1460" y="800" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-58" target="BrnbvuKPnCU4uQ8LR4Vm-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-66" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BrnbvuKPnCU4uQ8LR4Vm-61">
+          <mxGeometry x="-0.35" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-58" value="User clicks on upgrade to premium version?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="960" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-60" target="BrnbvuKPnCU4uQ8LR4Vm-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-60" value="Take user to payment completion process." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1460" y="1140" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-62" target="BrnbvuKPnCU4uQ8LR4Vm-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-62" value="On payment complete take user to employee upload wizard." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1460" y="1280" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-68" target="BrnbvuKPnCU4uQ8LR4Vm-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-68" value="Allow user to download&lt;br&gt;&amp;nbsp;excel format with pre-populated&lt;br&gt;&amp;nbsp;excel data" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1405" y="1440" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-70" target="BrnbvuKPnCU4uQ8LR4Vm-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-70" value="User enters in the format given." style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1405" y="1560" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-72" value="User uploads format into the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1460" y="1680" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
