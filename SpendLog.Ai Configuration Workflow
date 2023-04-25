@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T10:30:50.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="E_O_jIfzyq4xEE22iHvl" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T10:34:32.077Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="80va2KiGC5gTUuz7fvdS" version="21.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="5297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -177,6 +177,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-54" target="BrnbvuKPnCU4uQ8LR4Vm-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-76" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BrnbvuKPnCU4uQ8LR4Vm-75">
+          <mxGeometry x="-0.175" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-54" value="Does user want to setup entire company HR master?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1440" y="580" width="160" height="140" as="geometry" />
         </mxCell>
@@ -191,6 +199,14 @@
         </mxCell>
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-66" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BrnbvuKPnCU4uQ8LR4Vm-61">
           <mxGeometry x="-0.35" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-58" target="BrnbvuKPnCU4uQ8LR4Vm-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-78" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BrnbvuKPnCU4uQ8LR4Vm-77">
+          <mxGeometry x="-0.6508" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -223,6 +239,15 @@
         </mxCell>
         <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-72" value="User uploads format into the system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1460" y="1680" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrnbvuKPnCU4uQ8LR4Vm-74" target="BrnbvuKPnCU4uQ8LR4Vm-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-74" value="Form to enter a total of 5 employees. The fields of the form will be similar to the excel format." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1840" y="600" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BrnbvuKPnCU4uQ8LR4Vm-79" value="Show video on how to create custom rules" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2040" y="600" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
